@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="./github-banner.png"
+  <img src="ChatGPT%20Image%20Aug%2024%2C%202026%2C%2010_41_20%20PM.png"
        alt="Maneesh Chintalapudi - AI Engineer"
-       width="100%" />
+       width="100%">
 </p>
+
+<br>
+
 # Hi, I'm Maneesh Chintalapudi 👋
 
 ### AI Engineer • GenAI Engineer • Full-Stack Engineer
