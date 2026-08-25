@@ -1,11 +1,17 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Maneesh Chintalapudi — Full-Stack and AI Engineer" width="100%" />
+  <img src="./hero.svg" alt="Maneesh Chintalapudi — Full-Stack and AI Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://maneesh-chintalapudi-portfolio.maneeshchintalapudi.chatgpt.site"><img src="./link-portfolio.svg" width="31.5%" alt="Maneesh Chintalapudi's portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/maneesh-chintalapudi/"><img src="./link-linkedin.svg" width="31.5%" alt="Maneesh Chintalapudi on LinkedIn" /></a>&nbsp;
-  <a href="mailto:maneesh.chintalapudi@example.com"><img src="./link-email.svg" width="31.5%" alt="Email chintalapudimaneesh1@gmail.com" /></a>
+  <a href="https://maneesh-chintalapudi-portfolio.maneeshchintalapudi.chatgpt.site/">
+    <img src="./link-portfolio.svg" width="31.5%" alt="Maneesh Chintalapudi's portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/maneesh-chintalapudi-b46751325-ai/">
+    <img src="./link-linkedin.svg" width="31.5%" alt="Maneesh Chintalapudi on LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:chintalapudimaneesh1@gmail.com">
+    <img src="./link-email.svg" width="31.5%" alt="Email Maneesh Chintalapudi" />
+  </a>
 </p>
 
 <p align="center">
@@ -38,7 +44,12 @@
 </p>
 
 <p align="center">
-  <code>Azure OpenAI</code>&nbsp;•&nbsp;<code>LangChain</code>&nbsp;•&nbsp;<code>Semantic Kernel</code>&nbsp;•&nbsp;<code>Vector Search</code>&nbsp;•&nbsp;<code>Microservices</code>&nbsp;•&nbsp;<code>CI/CD</code>
+  <code>Azure OpenAI</code>&nbsp;•&nbsp;
+  <code>LangChain</code>&nbsp;•&nbsp;
+  <code>Semantic Kernel</code>&nbsp;•&nbsp;
+  <code>Vector Search</code>&nbsp;•&nbsp;
+  <code>Microservices</code>&nbsp;•&nbsp;
+  <code>CI/CD</code>
 </p>
 
 <br />
@@ -75,8 +86,9 @@
 <br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshChintalapudi&amp;theme=github_dark" alt="Maneesh Chintalapudi's GitHub contribution details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeeshChintalapudi12&amp;theme=github_dark" alt="Maneesh Chintalapudi's GitHub contribution details" width="100%" />
 </p>
 
-<p align="center"><i>Open to Full-Stack Software Engineer and AI/GenAI Engineer opportunities across the United States.</i></p>
-
+<p align="center">
+  <i>Open to Full-Stack Software Engineer and AI/GenAI Engineer opportunities across the United States.</i>
+</p>
