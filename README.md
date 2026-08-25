@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://maneesh-chintalapudi-portfolio.maneeshchintalapudi.chatgpt.site"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Maneesh Chintalapudi's portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/maneesh-chintalapudi/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="Maneesh Chintalapudi on LinkedIn" /></a>&nbsp;
-  <a href="mailto:maneesh.chintalapudi@example.com"><img src="./assets/link-email.svg" width="31.5%" alt="Email Maneesh Chintalapudi" /></a>
+  <a href="https://maneesh-chintalapudi-portfolio.maneeshchintalapudi.chatgpt.site"><img src="./link-portfolio.svg" width="31.5%" alt="Maneesh Chintalapudi's portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/maneesh-chintalapudi/"><img src="./link-linkedin.svg" width="31.5%" alt="Maneesh Chintalapudi on LinkedIn" /></a>&nbsp;
+  <a href="mailto:maneesh.chintalapudi@example.com"><img src="./link-email.svg" width="31.5%" alt="Email chintalapudimaneesh1@gmail.com" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Full-Stack and AI Engineer specializing in GenAI, RAG, agents, and cloud-native applications; based in Frisco, Texas" />
+  <img src="./now.svg" width="100%" alt="Full-Stack and AI Engineer specializing in GenAI, RAG, agents, and cloud-native applications; based in Frisco, Texas" />
 </p>
 
 <br />
