@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png"
+       alt="Maneesh Chintalapudi - AI Engineer"
+       width="100%" />
+</p>
 # Hi, I'm Maneesh Chintalapudi 👋
 
 ### AI Engineer • GenAI Engineer • Full-Stack Engineer
